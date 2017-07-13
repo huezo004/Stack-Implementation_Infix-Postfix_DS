@@ -1,0 +1,3 @@
+Clear function is usig C++ STL List's clear function, 
+which destroys every item in List, n is the number of items 
+in list, it has to run n times, hence it is O(N). 
